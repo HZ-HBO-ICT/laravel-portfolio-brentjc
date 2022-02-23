@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Hello World</title>
+    <meta charset="utf-8" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<div>
+
+    <body>
+
+    <div>
+        <header>
+            <div>
+                <h1>Blog</h1>
+                <nav>
+                    <p><a href="index.html">Home</a></p>
+                    <p><a href="profile.html">Profile</a></p>
+                    <p><a href="dashboard.html">Dashboard</a></p>
+                    <p><a href="faq.html">FAQ</a></p>
+                    <p><a href="blog.html">Blog</a></p>
+                </nav>
+            </div>
+        </header>
+
+    </div>
+
+    <div>
+        <div>
+            <main>
+                <article>
+                    <details>
+                        <summary>Studiekeuze</summary>
+                        <p>Door te kijken naar
+                            verschillende scholen heb ik toch gekozen voor de HZ in Middelburg. Wel heb ik
+                            meegelopen bij de HZ in Vlissingen, maar dat vond ik maar niks. Ik denk er over na om
+                            met mijn opleiding een leuk beroep te kiezen. Dat mag Software Developer zijn of Game
+                            Developer.
+                        </p>
+                    </details>
+                    <details>
+                        <summary>Persoonlijke SWOT analyse</summary>
+                        <p>Ik ben iemand die positief opkijkt naar een opdracht. Als de opdracht te moeilijk wordt,
+                            vraag ik om hulp bij iemand. Dit doe ik als ik er echt niet uit kom en geen oplossing
+                            vindt. Ik wil het wel zelf eerst uitzoeken wat een tijdje kan duren door mijn
+                            eigenwijsheid waardoor het langer duurt om de opdracht af te maken.</p>
+                    </details>
+                    <details>
+                        <summary>Programmeerervaring</summary>
+                        <p>Voor het begin van de opleiding had ik helemaal geen programmeerervaring. Ik was een
+                            cursus voor Javascript begonnen op Codecadamy, wat was aangeraden om te doen. Ik koos
+                            Javascript, omdat het een bekende naam is. Het enige wat ik wist was dat de F12-toets de
+                            code van de webpagina liet zien.</p>
+                    </details>
+                    <details>
+                        <summary>De eerste feedback</summary>
+                        <p>De feedback die ik kreeg over mijn code was zeer hulpzaam. Ik was nogal bezig met Bootstrap om
+                            de layout zorgvuldiger te maken. Maar ik was er best lang mee bezig om de layout er vorm mee
+                            te geven. Het werd mij aangeraden om geen Bootstrap te gebruiken. Ik denk dat het
+                            gebruik van een ander framework betere resultaten zal opleveren.</p>
+                        <p>Omdat mijn layout er niet goed uit zag, probeerde ik het op te lossen door CSS tags erbij
+                            toe te voegen. Door nieuwe tags toe te voegen, werd het probleem niet opgelost. Hierdoor
+                            werd het voor mij niet meer overzichtelijk en kon ik de fouten moeilijk zien. Ik zal voortaan meer
+                            gestructureerd werken om zulke fouten te vermijden.</p>
+                    </details>
+                    <details>
+                        <summary>Beroepsbeeld</summary>
+                        <p>De verschillende bedrijven die ik heb gezien tijdens de bedrijvenmarkt waren heel erg
+                            informatief. Zulke bedrijven waren HackerOne, Syntess, Macaw, Guerrilla en Maxxton.
+                            HackerOne is een bedrijf dat hackers gebruikt om bugs te vinden in software van
+                            bedrijven. Syntess is producent van ERP- en mobiele software in Nederland. Macaw is een
+                            combinatie van een systeemintergrator en een digitaal bureau. Guerrilla ontwikkelt
+                            games. En Maxxton helpt de horeca in het ICT gebied.</p>
+
+                        <h2>IT rollen</h2>
+                        <p>HackerOne heeft voor een teamopdracht;</p>
+                        <ul>
+                            <li>de Product Manager</li>
+                            <li>de Product Designer</li>
+                            <li>de Product Lead</li>
+                        </ul>
+                    </details>
+                </article>
+            </main>
+        </div>
+        <div>
+            <aside>
+                <div>
+                    <ul>
+                        <li><a
+                                href="https://hz.nl/over-de-hz/regelingen-documenten-1/onderwijs-en-examenregelingen">Onderwijs-
+                                en Examenregelingen</a></li>
+                        <li><a
+                                href="https://hz.nl/uploads/documents/Regelingen/OERS/2021-2022/11.-Uitvoeringsregeling-OER-ICT-Voltijd-2021-2022.pdf">Uitvoeringsregeling</a>
+                        </li>
+                        <li><a href="https://learn.hz.nl/my/">HZ Learn</a></li>
+                        <li><a href="https://apps.hz.nl/angular/studievoortgang/studiestatus">Studiestatus</a></li>
+                        <li><a href="https://teams.microsoft.com/_#/school//?ctx=teamsGrid">Teams</a></li>
+                        <li><a href="https://github.com/">Github</a></li>
+                    </ul>
+                </div>
+            </aside>
+        </div>
+    </div>
+    </body>
+</div>
+
+</html>
